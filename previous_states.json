@@ -40,8 +40,8 @@
     "full_name": "Phantom Manor"
   },
   "Crush's Coaster": {
-    "is_open": false,
-    "wait_time": 0,
+    "is_open": true,
+    "wait_time": 15,
     "full_name": "Turtle Talk With Crush"
   },
   "Frozen Ever After": {
