@@ -1,7 +1,7 @@
 {
   "Indiana Jones et le Temple du Péril": {
     "is_open": true,
-    "wait_time": 5,
+    "wait_time": 10,
     "full_name": "Indiana Jones™ and the Temple of Peril"
   },
   "Pirates of the Caribbean": {
@@ -21,22 +21,22 @@
   },
   "It's a Small World": {
     "is_open": true,
-    "wait_time": 5,
+    "wait_time": 10,
     "full_name": "\"it's a small world\""
   },
   "Peter Pan's Flight": {
     "is_open": true,
-    "wait_time": 45,
+    "wait_time": 60,
     "full_name": "Peter Pan's Flight"
   },
   "Big Thunder Mountain": {
-    "is_open": true,
-    "wait_time": 65,
+    "is_open": false,
+    "wait_time": 0,
     "full_name": "Big Thunder Mountain"
   },
   "Phantom Manor": {
     "is_open": true,
-    "wait_time": 40,
+    "wait_time": 30,
     "full_name": "Phantom Manor"
   },
   "Crush's Coaster": {
