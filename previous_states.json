@@ -11,12 +11,12 @@
   },
   "Autopia": {
     "is_open": true,
-    "wait_time": 25,
+    "wait_time": 40,
     "full_name": "Autopia, presented by Avis"
   },
   "Star Wars Hyperspace Mountain": {
     "is_open": true,
-    "wait_time": 20,
+    "wait_time": 15,
     "full_name": "Star Wars Hyperspace Mountain Single Rider"
   },
   "It's a Small World": {
@@ -25,8 +25,8 @@
     "full_name": "\"it's a small world\""
   },
   "Peter Pan's Flight": {
-    "is_open": true,
-    "wait_time": 55,
+    "is_open": false,
+    "wait_time": 0,
     "full_name": "Peter Pan's Flight"
   },
   "Big Thunder Mountain": {
@@ -36,7 +36,7 @@
   },
   "Phantom Manor": {
     "is_open": true,
-    "wait_time": 25,
+    "wait_time": 30,
     "full_name": "Phantom Manor"
   },
   "Crush's Coaster": {
