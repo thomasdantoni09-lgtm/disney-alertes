@@ -20,8 +20,8 @@
     "full_name": "Star Wars Hyperspace Mountain Single Rider"
   },
   "It's a Small World": {
-    "is_open": true,
-    "wait_time": 5,
+    "is_open": false,
+    "wait_time": 0,
     "full_name": "\"it's a small world\""
   },
   "Peter Pan's Flight": {
