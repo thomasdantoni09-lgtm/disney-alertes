@@ -25,8 +25,8 @@
     "full_name": "\"it's a small world\""
   },
   "Peter Pan's Flight": {
-    "is_open": true,
-    "wait_time": 25,
+    "is_open": false,
+    "wait_time": 0,
     "full_name": "Peter Pan's Flight"
   },
   "Big Thunder Mountain": {
