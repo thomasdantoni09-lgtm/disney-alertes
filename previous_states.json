@@ -40,17 +40,17 @@
     "full_name": "Phantom Manor"
   },
   "Crush's Coaster": {
-    "is_open": true,
-    "wait_time": 15,
+    "is_open": false,
+    "wait_time": 0,
     "full_name": "Turtle Talk With Crush"
   },
   "Frozen Ever After": {
-    "is_open": true,
-    "wait_time": 55,
+    "is_open": false,
+    "wait_time": 0,
     "full_name": "Frozen Ever After"
   },
   "Ratatouille: L'Aventure Totalement Toquée de Rémy": {
-    "is_open": true,
+    "is_open": false,
     "wait_time": 0,
     "full_name": "Remy's Ratatouille Adventure Single Rider"
   }
