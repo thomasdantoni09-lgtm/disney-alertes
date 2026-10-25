@@ -21,7 +21,7 @@
   },
   "It's a Small World": {
     "is_open": true,
-    "wait_time": 20,
+    "wait_time": 5,
     "full_name": "\"it's a small world\""
   },
   "Peter Pan's Flight": {
@@ -31,7 +31,7 @@
   },
   "Big Thunder Mountain": {
     "is_open": true,
-    "wait_time": 105,
+    "wait_time": 90,
     "full_name": "Big Thunder Mountain"
   },
   "Phantom Manor": {
@@ -46,7 +46,7 @@
   },
   "Frozen Ever After": {
     "is_open": true,
-    "wait_time": 10,
+    "wait_time": 40,
     "full_name": "Frozen Ever After"
   },
   "Ratatouille: L'Aventure Totalement Toquée de Rémy": {
