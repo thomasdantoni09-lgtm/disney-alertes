@@ -50,7 +50,7 @@
     "full_name": "Frozen Ever After"
   },
   "Ratatouille: L'Aventure Totalement Toquée de Rémy": {
-    "is_open": true,
+    "is_open": false,
     "wait_time": 0,
     "full_name": "Remy's Ratatouille Adventure Single Rider"
   }
