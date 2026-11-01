@@ -30,7 +30,7 @@
     "full_name": "Peter Pan's Flight"
   },
   "Big Thunder Mountain": {
-    "is_open": false,
+    "is_open": true,
     "wait_time": 0,
     "full_name": "Big Thunder Mountain"
   },
